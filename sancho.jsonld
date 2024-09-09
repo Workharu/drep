@@ -64,11 +64,6 @@
         "@type": "Link",
         "label": "For more on testing",
         "uri": "https://workharu.com"
-      },
-      {
-        "@type": "Identity",
-        "label": "Label",
-        "uri": "https://empowa.iohttps://workharu.com"
       }
     ]
   }
