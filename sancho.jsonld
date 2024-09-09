@@ -55,14 +55,14 @@
   "body": {
     "doNotList": false,
     "givenName": "Workharu",
-    "motivations": "For more on testing",
-    "objectives": "For more on testing",
+    "motivations": "",
+    "objectives": "",
     "paymentAddress": "addr_test1qr0xx2rcu7k7xvy3kpg42uu6agyw2ludauhss3juew298e9lr802exgd543vj7dw07fx593dgwkz6nf2jfftapjs7dhqpmas3f",
-    "qualifications": "For more on testing",
+    "qualifications": "",
     "references": [
       {
         "@type": "Link",
-        "label": "For more on testing",
+        "label": "Label",
         "uri": "https://workharu.com"
       }
     ]
